@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@google/genai": "^1.0.0",
-    "@modelcontextprotocol/sdk": "^1.11.4",
+    "@modelcontextprotocol/sdk": "^1.30.0",
     "zod": "^3.25.7",
     "highlight.js": "^11.11.1",
     "lit": "^3.3.0",
